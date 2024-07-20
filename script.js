@@ -24,6 +24,6 @@ function getData(){
     });
 
     animated_bgs_text.forEach(bg => {
-        bg.classList.remove('animated-bg');
+        bg.classList.remove('animated-bg-text');
     });
 }
